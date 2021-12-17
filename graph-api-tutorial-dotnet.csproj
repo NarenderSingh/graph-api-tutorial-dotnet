@@ -1,8 +1,9 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>graph_api_tutorial_dotnet</RootNamespace>
+    <RootNamespace>GraphTutorial</RootNamespace>
+    <UserSecretsId>9cf932c7-b181-4ae8-bdff-46ef9461dfa1</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

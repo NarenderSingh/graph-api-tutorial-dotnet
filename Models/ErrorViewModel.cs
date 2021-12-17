@@ -1,6 +1,6 @@
 using System;
 
-namespace graph_api_tutorial_dotnet.Models
+namespace GraphTutorial.Models
 {
     public class ErrorViewModel
     {
