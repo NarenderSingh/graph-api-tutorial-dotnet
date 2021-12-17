@@ -18,6 +18,6 @@ This tutorial was written with .NET Core SDK version 5.0.102. The steps in this 
 
 
 ## Add Azure AD authentication
-dotnet user-secrets init
-dotnet user-secrets set "AzureAd:ClientId" "YOUR_APP_ID"
-dotnet user-secrets set "AzureAd:ClientSecret" "YOUR_APP_SECRET"
+dotnet user-secrets init<br>
+dotnet user-secrets set "AzureAd:ClientId" "YOUR_APP_ID"<br>
+dotnet user-secrets set "AzureAd:ClientSecret" "YOUR_APP_SECRET"<br>
